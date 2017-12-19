@@ -13,7 +13,7 @@ public class zip implements compr {
 
     @Override
     public void compress(String file) {
-        System.out.println(zip.class);
+        System.out.println(file);
     }
     
     
